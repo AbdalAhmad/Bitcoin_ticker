@@ -1,21 +1,22 @@
-<<<<<<< HEAD
-# Bitcoin_ticker
-rate of bitcoin teller
-=======
-# bitcoin_ticker
+# 📈 Bitcoin Ticker
 
-A new Flutter project.
+A real-time Bitcoin price tracking app built using **Flutter** and **Dart**, providing users with live cryptocurrency data, historical price charts, and notifications for significant price changes.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔄 **Live Price Tracking** – Fetches real-time Bitcoin prices using a live API.
+- 🧭 **User-Friendly Interface** – Clean, responsive design with smooth data rendering.
+- ⚙️ **Optimized Performance** – Efficient API handling and state management.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** – UI toolkit for building natively compiled applications.
+- **Dart** – Programming language optimized for fast apps on any platform.
+- **HTTP** – API integration for real-time data.
+- **Provider / Riverpod / Bloc** *(choose your state management solution)* – Efficient state management.
+- **Charting Library** – To display historical Bitcoin data visually.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 5cc42fe (Done)
+
+
+
+
